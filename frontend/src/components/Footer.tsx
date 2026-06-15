@@ -48,10 +48,10 @@ const Footer = () => {
           <div className="space-y-4 md:justify-self-end">
             <h3 className="text-white font-semibold uppercase tracking-wider text-sm mt-1">Connect</h3>
             <div className="flex gap-4">
-              <a href="https://github.com/ඔබගේ-username" target="_blank" rel="noopener noreferrer" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
+              <a href="https://github.com/SachinKalhara/" target="_blank" rel="noopener noreferrer" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
                 <FaGithub size={20} />
               </a>
-              <a href="https://linkedin.com/in/ඔබගේ-username" target="_blank" rel="noopener noreferrer" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
+              <a href="https://www.linkedin.com/in/sachin-kalhara-a57798376/" target="_blank" rel="noopener noreferrer" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
                 <FaLinkedin size={20} />
               </a>
               <a href="mailto:ඔබගේ@email.com" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
