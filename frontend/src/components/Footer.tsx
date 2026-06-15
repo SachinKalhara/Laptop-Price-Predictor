@@ -54,7 +54,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/sachin-kalhara-a57798376/" target="_blank" rel="noopener noreferrer" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
                 <FaLinkedin size={20} />
               </a>
-              <a href="mailto:ඔබගේ@email.com" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
+              <a href="mailto:sachinkalharalearns@gmail.com" className="p-2 bg-gray-800 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
                 <Mail size={20} />
               </a>
             </div>
@@ -66,7 +66,7 @@ const Footer = () => {
           <p>© {currentYear} Smart Laptop Predictor. All rights reserved.</p>
           <p className="flex items-center gap-1 mt-2 md:mt-0">
             Built with <Heart size={14} className="text-red-500" /> by 
-            <span className="text-gray-300 font-medium">Your Name</span>
+            <span className="text-gray-300 font-medium">Sachin Kalhara</span>
           </p>
         </div>
       </div>
