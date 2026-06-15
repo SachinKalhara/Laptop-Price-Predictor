@@ -1,0 +1,14 @@
+# Node (Frontend)
+node_modules/
+dist/
+.eslintcache
+
+# Python (Backend)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment Variables & OS Files
+.env
+.DS_Store
