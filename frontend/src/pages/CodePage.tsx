@@ -126,7 +126,7 @@ def predict_price(data: LaptopInput):
           <h3 className="text-xl font-bold text-gray-800 mb-2">Want to see the full project?</h3>
           <p className="text-gray-600 mb-6">Explore the complete architecture and model training notebooks on GitHub.</p>
           <a 
-            href="https://github.com/your-username/laptop-price-predictor" 
+            href="https://github.com/SachinKalhara/Laptop-Price-Predictor.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-gray-900 text-white font-medium px-8 py-3 rounded-xl hover:bg-gray-800 hover:shadow-lg transition-all"
